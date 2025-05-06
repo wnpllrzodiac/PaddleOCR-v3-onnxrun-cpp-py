@@ -1,4 +1,4 @@
 opencv-python
-onnx-runtime
+onnxruntime
 pyclipper
 shapely
